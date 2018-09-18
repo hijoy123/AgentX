@@ -8,7 +8,8 @@
 （3）断开和连接控制
         1.账号体系
         2.连接时长控制
-        3.速度控制
+        3.速度控制  
+        
  [![](http://7xp1jv.com1.z0.glb.clouddn.com/agentx-logo.png?imageView2/2/w/48)](http://agentx.zhangjiupeng.com) AgentX
  ============
  
